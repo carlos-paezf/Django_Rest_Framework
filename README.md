@@ -22,4 +22,5 @@ pip install -r requirements.txt
 
 ## Documentación
 
-[Creación del proyecto](DOC/01_Creacion_Proyecto.md)
+- [Creación del proyecto](DOC/01_Creacion_Proyecto.md)
+- [Modelo de Usuarios](DOC/02_Modelo_Usuarios.md)
