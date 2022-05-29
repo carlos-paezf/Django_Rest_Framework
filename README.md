@@ -24,3 +24,4 @@ pip install -r requirements.txt
 
 - [Creación del proyecto](DOC/01_Creacion_Proyecto.md)
 - [Modelo de Usuarios](DOC/02_Modelo_Usuarios.md)
+- [Agregando Manager de Usuario](DOC/03_Agregando_Manager_Usuario.md)
