@@ -26,3 +26,4 @@ pip install -r requirements.txt
 - [Modelo de Usuarios](DOC/02_Modelo_Usuarios.md)
 - [Agregando Manager de Usuario](DOC/03_Agregando_Manager_Usuario.md)
 - [Modelo de Usuario Personalizado](DOC/04_Modelo_Usuario_Personalizado.md)
+- [Migraciones de Base de Datos](DOC/05_Migraciones_Base_Datos.md)
