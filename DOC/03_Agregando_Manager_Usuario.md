@@ -37,7 +37,7 @@ También tenemos una función para crear un super-usuario, el cuál si requiere 
 ```py
 class UserProfileManager(BaseUserManager):
     ...
-    def create_super_user(self, email, name, password):
+    def create_superuser(self, email, name, password):
         user = self.create_user(email, name, password)
 
         user.is_superuser = True
