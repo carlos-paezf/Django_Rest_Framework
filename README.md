@@ -28,3 +28,4 @@ pip install -r requirements.txt
 - [Modelo de Usuario Personalizado](DOC/04_Modelo_Usuario_Personalizado.md)
 - [Migraciones de Base de Datos](DOC/05_Migraciones_Base_Datos.md)
 - [Super-Usuario](DOC/06_Super_Usuario.md)
+- [Acceso de Admin](DOC/07_Acceso_Admin.md)
