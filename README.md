@@ -37,3 +37,4 @@ pip install -r requirements.txt
 - [Métodos PUT, Patch y Delete](DOC/13_Metodos_PUT_PATCH_DELETE.md)
 - [¿Qué son los ViewSets?](DOC/14_Que_es_ViewSet.md)
 - [Crear un ViewSet](DOC/15_Crear_ViewSet.md)
+- [Agregar URL Router](DOC/16_Agregar_URL_Router.md)
