@@ -40,3 +40,4 @@ pip install -r requirements.txt
 - [Agregar URL Router](DOC/16_Agregar_URL_Router.md)
 - [Creando RetrieveUpdate, PartialUpdate y Destroy](DOC/17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md)
 - [API para perfil de usuario](DOC/18_API_Perfil_Usuario.md)
+- [Serializar perfil de usuario](DOC/19_Serializar_Perfil_Usuario.md)
