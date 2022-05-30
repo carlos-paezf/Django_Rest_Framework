@@ -33,3 +33,4 @@ pip install -r requirements.txt
 - [Creando primer APIView](DOC/09_Creando_Primer_APIView.md)
 - [URL de APIView](DOC/10_URL_APIView.md)
 - [Crear Serializador](DOC/11_Crear_Serializador.md)
+- [Agregar método POST al APIView](DOC/12_Agregar_Metodo_POST_APIView.md)
