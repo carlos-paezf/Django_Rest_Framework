@@ -54,6 +54,7 @@ class HelloWorldAPIView(APIView):
 
 class HelloWorldViewSet(viewsets.ViewSet):
     """ Test API ViewSet """
+    serializer_class = serializers.HelloWorldSerializers
 
     def list(self, request):
         """ Retornar un mensaje """
@@ -67,3 +68,31 @@ class HelloWorldViewSet(viewsets.ViewSet):
             'message': 'Hola',
             'a_viewset': a_viewset
         })
+
+    def create(self, request):
+        """ Crear un nuevo mensaje """
+        serializer = self.serializer_class(data = request.data)
+
+        if serializer.is_valid():
+            name = serializer.validated_data.get('name')
+            message = f'Hola mundo {name}'
+
+            return Response({ 'message': message })
+        else:
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def retrieve(self, request, pk=None):
+        """ Obtener un objeto y su id """
+        return Response({ 'http_method': 'GET' })
+
+    def update(self, request, pk=None):
+        """ Actualizar un objeto """
+        return Response({ 'http_method': 'PUT' })
+
+    def partial_update(self, request, pk=None):
+        """ Actualizar parcialmente un objeto """
+        return Response({ 'http_method': 'PATCH' })
+
+    def destroy(self, request, pk=None):
+        """ Eliminar un objeto """
+        return Response({ 'http_method': 'DELETE' })

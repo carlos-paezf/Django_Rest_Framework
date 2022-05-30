@@ -38,3 +38,4 @@ pip install -r requirements.txt
 - [¿Qué son los ViewSets?](DOC/14_Que_es_ViewSet.md)
 - [Crear un ViewSet](DOC/15_Crear_ViewSet.md)
 - [Agregar URL Router](DOC/16_Agregar_URL_Router.md)
+- [Creando RetrieveUpdate, PartialUpdate y Destroy](DOC/17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md)
