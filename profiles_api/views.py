@@ -2,6 +2,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 from profiles_api import serializers
+from rest_framework import viewsets
 
 
 class HelloWorldAPIView(APIView):
@@ -49,3 +50,20 @@ class HelloWorldAPIView(APIView):
     def delete(self, request, pk=None):
         """ Eliminar un objeto """
         return Response({ 'method': 'DELETE' })
+
+
+class HelloWorldViewSet(viewsets.ViewSet):
+    """ Test API ViewSet """
+
+    def list(self, request):
+        """ Retornar un mensaje """
+        a_viewset = [
+            'Usa acciones como list, create, retrieve, update, partial_update, delete'
+            'Automáticamente mapea a los URLs usando Routers',
+            'Provee más funcionalidad con menos código'
+        ]
+
+        return Response({
+            'message': 'Hola',
+            'a_viewset': a_viewset
+        })
