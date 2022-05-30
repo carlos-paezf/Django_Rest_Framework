@@ -35,3 +35,4 @@ pip install -r requirements.txt
 - [Crear Serializador](DOC/11_Crear_Serializador.md)
 - [Agregar método POST al APIView](DOC/12_Agregar_Metodo_POST_APIView.md)
 - [Métodos PUT, Patch y Delete](DOC/13_Metodos_PUT_PATCH_DELETE.md)
+- [¿Qué son los ViewSets?](DOC/14_Que_es_ViewSet.md)
