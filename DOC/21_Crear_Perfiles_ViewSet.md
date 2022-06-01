@@ -11,7 +11,7 @@ Definimos una clase que va a heredar de `ModelViewSet`, la cual nos permite crea
 ```py
 class UserProfileViewSet(viewsets.ModelViewSet):
     serializer_class = serializers.UserProfileSerializers
-    query_set = models.UserProfile.objects.all()
+    queryset = models.UserProfile.objects.all()
 ```
 
 Debemos registrar nuestro ViewSet, por lo que vamos al archivo `profiles_api/urls.py` y lo agregamos de la siguiente manera:
@@ -20,6 +20,8 @@ Debemos registrar nuestro ViewSet, por lo que vamos al archivo `profiles_api/url
 router.register('profile', views.UserProfileViewSet)
 ```
 
+Dentro del navegador podemos probar esta ruta `http://localhost:8000/api/profile/`, y vamos tener como respuesta una lista con los usuarios que tenemos registrados, además podemos crear un nuevo usuario desde el formulario que se nos brinda. Podemos confirmar el registro del usuario si vamos a la ruta `http://localhost:8000/admin`, en la sección de usuarios.
+
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Perfil de Usuario con API](22_Perfil_Usuario_API.md) |
+| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Permisos de Usuario](22_Permisos_Usuario.md) |

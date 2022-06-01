@@ -101,4 +101,4 @@ class HelloWorldViewSet(viewsets.ViewSet):
 class UserProfileViewSet(viewsets.ModelViewSet):
     """ Maneja la creación y actualización de perfiles """
     serializer_class = serializers.UserProfileSerializers
-    query_set = models.UserProfile.objects.all()
+    queryset = models.UserProfile.objects.all()
