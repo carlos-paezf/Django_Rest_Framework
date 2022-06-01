@@ -44,3 +44,4 @@ pip install -r requirements.txt
 - [Actualización de Contraseña y Login de Usuario](DOC/20_Actualización_Password_Login_Usuario.md)
 - [Crear perfiles ViewSet](DOC/21_Crear_Perfiles_ViewSet.md)
 - [Permisos de Usuario](DOC/22_Permisos_Usuario.md)
+- [Autenticación y Permisos de ViewSet](DOC/23_Autenticacion_Permisos_ViewSet.md)
