@@ -41,3 +41,4 @@ pip install -r requirements.txt
 - [Creando RetrieveUpdate, PartialUpdate y Destroy](DOC/17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md)
 - [API para perfil de usuario](DOC/18_API_Perfil_Usuario.md)
 - [Serializar perfil de usuario](DOC/19_Serializar_Perfil_Usuario.md)
+- [Actualización de Contraseña y Login de Usuario](DOC/20_Actualización_Password_Login_Usuario.md)
