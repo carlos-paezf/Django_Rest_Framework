@@ -46,3 +46,4 @@ pip install -r requirements.txt
 - [Permisos de Usuario](DOC/22_Permisos_Usuario.md)
 - [Autenticación y Permisos de ViewSet](DOC/23_Autenticacion_Permisos_ViewSet.md)
 - [Filtrar Usuarios](DOC/24_Filtrar_Usuarios.md)
+- [Área de Login](DOC/25_Area_Login.md)
