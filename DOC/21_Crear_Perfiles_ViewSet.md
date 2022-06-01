@@ -14,6 +14,12 @@ class UserProfileViewSet(viewsets.ModelViewSet):
     query_set = models.UserProfile.objects.all()
 ```
 
+Debemos registrar nuestro ViewSet, por lo que vamos al archivo `profiles_api/urls.py` y lo agregamos de la siguiente manera:
+
+```py
+router.register('profile', views.UserProfileViewSet)
+```
+
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Registro de ViewSet en Router URL](22_Registro_ViewSet_Router_URL.md) |
+| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Perfil de Usuario con API](22_Perfil_Usuario_API.md) |
