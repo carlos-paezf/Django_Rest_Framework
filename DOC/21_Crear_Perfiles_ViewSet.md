@@ -16,4 +16,4 @@ class UserProfileViewSet(viewsets.ModelViewSet):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Registro de ViewSet en Router URL](21_Registro_ViewSet_Router_URL.md) |
+| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Registro de ViewSet en Router URL](22_Registro_ViewSet_Router_URL.md) |
