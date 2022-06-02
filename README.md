@@ -55,3 +55,5 @@ pip install -r requirements.txt
 - [Editando permiso del API](Django_API_Basic/DOC/29_Editando_Permisos_API.md)
 
 ### Django API Advanced
+
+- [Instalando Paquetes y Creación del Proyecto](Django_API_Advanced/DOC/01_Instalando_Paquetes_Creacion_Proyecto.md)
