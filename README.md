@@ -49,3 +49,4 @@ pip install -r requirements.txt
 - [Área de Login](DOC/25_Area_Login.md)
 - [API para Feed de perfil de Usuario](DOC/26_API_Feed_Perfil_Usuario.md)
 - [Agregando Ítem de modelo](DOC/27_Agregando_Item_Modelo.md)
+- [Serializador del Feed](DOC/28_Serializador_Feed.md)
