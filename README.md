@@ -57,3 +57,4 @@ pip install -r requirements.txt
 ### Django API Advanced
 
 - [Instalando Paquetes y Creación del Proyecto](Django_API_Advanced/DOC/01_Instalando_Paquetes_Creacion_Proyecto.md)
+- [Creando App Core](Django_API_Advanced/DOC/02_Creando_App_Core.md)
