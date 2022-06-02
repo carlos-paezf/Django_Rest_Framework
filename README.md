@@ -59,3 +59,4 @@ pip install -r requirements.txt
 - [Instalando Paquetes y Creación del Proyecto](Django_API_Advanced/DOC/01_Instalando_Paquetes_Creacion_Proyecto.md)
 - [Creando App Core](Django_API_Advanced/DOC/02_Creando_App_Core.md)
 - [Test para Modelo de Usuario Personalizado](Django_API_Advanced/DOC/03_Test_Modelo_Usuario_Personalizado.md)
+- [Modelo de Usuario Personalizado](Django_API_Advanced/DOC/04_Modelo_Usuario_Personalizado.md)
