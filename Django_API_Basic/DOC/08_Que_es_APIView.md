@@ -16,4 +16,4 @@ El APIView presenta un mayor control sobre la lógica, en especial aquella que s
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Acceso de Admin](07_Acceso_Admin.md) | [Readme](../README.md) | [Creando primer APIView](09_Creando_Primer_APIView.md) |
+| [Acceso de Admin](07_Acceso_Admin.md) | [Readme](../../README.md) | [Creando primer APIView](09_Creando_Primer_APIView.md) |

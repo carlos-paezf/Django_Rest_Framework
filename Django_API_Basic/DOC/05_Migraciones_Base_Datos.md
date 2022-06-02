@@ -16,4 +16,4 @@ python manage.py migrate
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Modelo de Usuario Personalizado](04_Modelo_Usuario_Personalizado.md) | [Readme](../README.md) | [Super-Usuario](06_Super_Usuario.md) |
+| [Modelo de Usuario Personalizado](04_Modelo_Usuario_Personalizado.md) | [Readme](../../README.md) | [Super-Usuario](06_Super_Usuario.md) |

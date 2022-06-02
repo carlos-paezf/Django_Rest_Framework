@@ -17,4 +17,4 @@ class UpdateOwnProfile(permissions.BasePermission):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Crear perfiles ViewSet](21_Crear_Perfiles_ViewSet.md) | [Readme](../README.md) | [Autenticación y Permisos de ViewSet](23_Autenticacion_Permisos_ViewSet.md) |
+| [Crear perfiles ViewSet](21_Crear_Perfiles_ViewSet.md) | [Readme](../../README.md) | [Autenticación y Permisos de ViewSet](23_Autenticacion_Permisos_ViewSet.md) |

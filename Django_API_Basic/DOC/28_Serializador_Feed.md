@@ -37,4 +37,4 @@ router.register('feed', views.UserProfileFeedViewSet)
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Agregando Ítem de modelo](27_Agregando_Item_Modelo.md) | [Readme](../README.md) | [Editando permiso del API](29_Editando_Permisos_API.md) |
+| [Agregando Ítem de modelo](27_Agregando_Item_Modelo.md) | [Readme](../../README.md) | [Editando permiso del API](29_Editando_Permisos_API.md) |

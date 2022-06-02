@@ -44,4 +44,4 @@ admin.site.register(models.ProfileFeedItem)
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [API para Feed de perfil de Usuario](26_API_Feed_Perfil_Usuario.md) | [Readme](../README.md) | [Serializador del Feed](28_Serializador_Feed.md) |
+| [API para Feed de perfil de Usuario](26_API_Feed_Perfil_Usuario.md) | [Readme](../../README.md) | [Serializador del Feed](28_Serializador_Feed.md) |

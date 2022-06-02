@@ -33,4 +33,4 @@ INSTALLED_APPS = [
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-|          | [Readme](../README.md) | [Modelo de Usuarios](02_Modelo_Usuarios.md) |
+|          | [Readme](../../README.md) | [Modelo de Usuarios](02_Modelo_Usuarios.md) |

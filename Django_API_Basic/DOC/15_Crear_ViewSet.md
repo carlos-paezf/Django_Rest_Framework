@@ -26,4 +26,4 @@ class HelloWorldViewSet(viewsets.ViewSet):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [¿Qué son los ViewSets?](14_Que_es_ViewSet.md) | [Readme](../README.md) | [Agregar URL Router](16_Agregar_URL_Router.md) |
+| [¿Qué son los ViewSets?](14_Que_es_ViewSet.md) | [Readme](../../README.md) | [Agregar URL Router](16_Agregar_URL_Router.md) |

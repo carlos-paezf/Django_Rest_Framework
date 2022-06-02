@@ -28,4 +28,4 @@ class HelloWorldAPIView(APIView):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [¿Que es una APIView?](08_Que_es_APIView.md) | [Readme](../README.md) | [URL de APIView](10_URL_APIView.md) |
+| [¿Que es una APIView?](08_Que_es_APIView.md) | [Readme](../../README.md) | [URL de APIView](10_URL_APIView.md) |

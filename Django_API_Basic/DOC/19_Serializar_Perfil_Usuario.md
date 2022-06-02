@@ -38,4 +38,4 @@ class UserProfileSerializers(serializers.ModelSerializer):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [API para perfil de usuario](18_API_Perfil_Usuario.md) | [Readme](../README.md) | [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) |
+| [API para perfil de usuario](18_API_Perfil_Usuario.md) | [Readme](../../README.md) | [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) |

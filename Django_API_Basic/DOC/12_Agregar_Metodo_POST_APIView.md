@@ -37,4 +37,4 @@ Para probar nuestra función `post()`, ingresamos al endpoint `http://127.0.0.1:
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Crear Serializador](11_Crear_Serializador.md) | [Readme](../README.md) | [Métodos PUT, Patch y Delete](13_Metodos_PUT_PATCH_DELETE.md) |
+| [Crear Serializador](11_Crear_Serializador.md) | [Readme](../../README.md) | [Métodos PUT, Patch y Delete](13_Metodos_PUT_PATCH_DELETE.md) |

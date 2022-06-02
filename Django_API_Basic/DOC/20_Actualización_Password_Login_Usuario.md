@@ -16,4 +16,4 @@ class UserProfileSerializers(serializers.ModelSerializer):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Serializar perfil de usuario](19_Serializar_Perfil_Usuario.md) | [Readme](../README.md) | [Crear perfiles ViewSet](21_Crear_Perfiles_ViewSet.md) |
+| [Serializar perfil de usuario](19_Serializar_Perfil_Usuario.md) | [Readme](../../README.md) | [Crear perfiles ViewSet](21_Crear_Perfiles_ViewSet.md) |

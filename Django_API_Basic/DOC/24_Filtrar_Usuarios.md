@@ -16,4 +16,4 @@ Para probar los filtros vamos al endpoint `http://localhost:8000/api/profile/` y
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Autenticación y Permisos de ViewSet](23_Autenticacion_Permisos_ViewSet.md) | [Readme](../README.md) | [Área de Login](25_Area_Login.md) |
+| [Autenticación y Permisos de ViewSet](23_Autenticacion_Permisos_ViewSet.md) | [Readme](../../README.md) | [Área de Login](25_Area_Login.md) |

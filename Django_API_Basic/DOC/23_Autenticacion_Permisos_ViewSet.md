@@ -19,4 +19,4 @@ Cuando ingresamos al endpoint `http://127.0.0.1:8000/api/profile/<id-usuario>`, 
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Permisos de Usuario](22_Permisos_Usuario.md) | [Readme](../README.md) | [Filtrar Usuarios](24_Filtrar_Usuarios.md) |
+| [Permisos de Usuario](22_Permisos_Usuario.md) | [Readme](../../README.md) | [Filtrar Usuarios](24_Filtrar_Usuarios.md) |

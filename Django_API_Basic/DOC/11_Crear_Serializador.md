@@ -14,4 +14,4 @@ class HelloWorldSerializers(serializers.Serializer):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [URL de APIView](10_URL_APIView.md) | [Readme](../README.md) | [Agregar método POST al APIView](12_Agregar_Metodo_POST_APIView.md) |
+| [URL de APIView](10_URL_APIView.md) | [Readme](../../README.md) | [Agregar método POST al APIView](12_Agregar_Metodo_POST_APIView.md) |

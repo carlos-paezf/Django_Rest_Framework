@@ -14,4 +14,4 @@
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Área de Login](25_Area_Login.md) | [Readme](../README.md) | [Agregando Ítem de modelo](27_Agregando_Item_Modelo.md) |
+| [Área de Login](25_Area_Login.md) | [Readme](../../README.md) | [Agregando Ítem de modelo](27_Agregando_Item_Modelo.md) |

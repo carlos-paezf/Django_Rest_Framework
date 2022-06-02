@@ -24,4 +24,4 @@ class UserProfileFeedViewSet(viewsets.ModelViewSet):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Serializador del Feed](28_Serializador_Feed.md) | [Readme](../README.md) |  |
+| [Serializador del Feed](28_Serializador_Feed.md) | [Readme](../../README.md) |  |

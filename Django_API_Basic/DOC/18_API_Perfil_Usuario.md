@@ -29,4 +29,4 @@
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Creando RetrieveUpdate, PartialUpdate y Destroy](17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md) | [Readme](../README.md) | [Serializar perfil de usuario](19_Serializar_Perfil_Usuario.md) |
+| [Creando RetrieveUpdate, PartialUpdate y Destroy](17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md) | [Readme](../../README.md) | [Serializar perfil de usuario](19_Serializar_Perfil_Usuario.md) |

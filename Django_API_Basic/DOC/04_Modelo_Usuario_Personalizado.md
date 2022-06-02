@@ -8,4 +8,4 @@ AUTH_USER_MODEL = 'profiles_api.UserProfile'
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Agregando Manager de Usuario](03_Agregando_Manager_Usuario.md) | [Readme](../README.md) | [Migraciones de Base de Datos](05_Migraciones_Base_Datos.md) |
+| [Agregando Manager de Usuario](03_Agregando_Manager_Usuario.md) | [Readme](../../README.md) | [Migraciones de Base de Datos](05_Migraciones_Base_Datos.md) |

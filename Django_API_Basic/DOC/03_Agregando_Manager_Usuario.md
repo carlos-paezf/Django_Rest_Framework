@@ -49,4 +49,4 @@ class UserProfileManager(BaseUserManager):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Modelo de Usuarios](02_Modelo_Usuarios.md) | [Readme](../README.md) | [Modelo de Usuario Personalizado](04_Modelo_Usuario_Personalizado.md) |
+| [Modelo de Usuarios](02_Modelo_Usuarios.md) | [Readme](../../README.md) | [Modelo de Usuario Personalizado](04_Modelo_Usuario_Personalizado.md) |

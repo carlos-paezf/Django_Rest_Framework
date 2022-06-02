@@ -27,4 +27,4 @@ Para comprobar los cambios ingresamos a la URL `http://127.0.0.1:8000/api/hello-
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Creando primer APIView](09_Creando_Primer_APIView.md) | [Readme](../README.md) | [Crear Serializador](11_Crear_Serializador.md) |
+| [Creando primer APIView](09_Creando_Primer_APIView.md) | [Readme](../../README.md) | [Crear Serializador](11_Crear_Serializador.md) |

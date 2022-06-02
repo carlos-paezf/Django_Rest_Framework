@@ -20,4 +20,4 @@ Para probar nuestro ViewSet, ingresamos a la ruta `http://127.0.0.1:8000/api` y 
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Crear un ViewSet](15_Crear_ViewSet.md) | [Readme](../README.md) | [Creando RetrieveUpdate, PartialUpdate y Destroy](17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md) |
+| [Crear un ViewSet](15_Crear_ViewSet.md) | [Readme](../../README.md) | [Creando RetrieveUpdate, PartialUpdate y Destroy](17_Creando_RetrieveUpdate_PartialUpdate_Destroy.md) |

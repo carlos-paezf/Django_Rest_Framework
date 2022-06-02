@@ -39,4 +39,4 @@ Para probar los métodos, vamos al endpoint `http://127.0.0.1:8000/api` e ingres
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Agregar URL Router](16_Agregar_URL_Router.md) | [Readme](../README.md) | [API para perfil de usuario](18_API_Perfil_Usuario.md) |
+| [Agregar URL Router](16_Agregar_URL_Router.md) | [Readme](../../README.md) | [API para perfil de usuario](18_API_Perfil_Usuario.md) |

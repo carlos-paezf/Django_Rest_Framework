@@ -10,4 +10,4 @@ Se nos va a pedir algunos datos: Email (cpaezferreira@gmail.com), Name (David Fe
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Migraciones de Base de Datos](05_Migraciones_Base_Datos.md) | [Readme](../README.md) | [Acceso de Admin](07_Acceso_Admin.md) |
+| [Migraciones de Base de Datos](05_Migraciones_Base_Datos.md) | [Readme](../../README.md) | [Acceso de Admin](07_Acceso_Admin.md) |

@@ -24,4 +24,4 @@ Dentro del navegador podemos probar esta ruta `http://localhost:8000/api/profile
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../README.md) | [Permisos de Usuario](22_Permisos_Usuario.md) |
+| [Actualización de Contraseña y Login de Usuario](20_Actualización_Password_Login_Usuario.md) | [Readme](../../README.md) | [Permisos de Usuario](22_Permisos_Usuario.md) |

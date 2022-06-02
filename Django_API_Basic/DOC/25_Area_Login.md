@@ -28,4 +28,4 @@ Ingresamos a la URL `http://127.0.0.1:8000/api/login` y ponemos nuestras credenc
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Filtrar Usuarios](24_Filtrar_Usuarios.md) | [Readme](../README.md) | [API para Feed de perfil de Usuario](26_API_Feed_Perfil_Usuario.md) |
+| [Filtrar Usuarios](24_Filtrar_Usuarios.md) | [Readme](../../README.md) | [API para Feed de perfil de Usuario](26_API_Feed_Perfil_Usuario.md) |

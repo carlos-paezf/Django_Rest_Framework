@@ -22,4 +22,4 @@ De nuevo, podemos hacer la prueba de los métodos con la url `http://127.0.0.1:8
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Agregar método POST al APIView](12_Agregar_Metodo_POST_APIView.md) | [Readme](../README.md) | [¿Qué son los ViewSets?](14_Que_es_ViewSet.md) |
+| [Agregar método POST al APIView](12_Agregar_Metodo_POST_APIView.md) | [Readme](../../README.md) | [¿Qué son los ViewSets?](14_Que_es_ViewSet.md) |

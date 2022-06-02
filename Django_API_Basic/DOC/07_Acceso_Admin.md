@@ -21,4 +21,4 @@ E ingresamos a la ruta que se nos muestra para el desarrollo (Al momento actual 
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Super-Usuario](06_Super_Usuario.md) | [Readme](../README.md) | [¿Que es una APIView?](08_Que_es_APIView.md) |
+| [Super-Usuario](06_Super_Usuario.md) | [Readme](../../README.md) | [¿Que es una APIView?](08_Que_es_APIView.md) |

@@ -52,4 +52,4 @@ class UserProfile(AbstractBaseUser, PermissionsMixin):
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Creación del proyecto](01_Creacion_Proyecto.md) | [Readme](../README.md) | [Agregando Manager de Usuario](03_Agregando_Manager_Usuario.md) |
+| [Creación del proyecto](01_Creacion_Proyecto.md) | [Readme](../../README.md) | [Agregando Manager de Usuario](03_Agregando_Manager_Usuario.md) |

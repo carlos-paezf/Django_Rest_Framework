@@ -6,4 +6,4 @@ Los ViewSets son utilizados en CRUD simple, en una API simple, los ViewSets cuen
 
 | Anterior |                        | Siguiente                                   |
 | -------- | ---------------------- | ------------------------------------------- |
-| [Métodos PUT, Patch y Delete](13_Metodos_PUT_PATCH_DELETE.md) | [Readme](../README.md) | [Crear un ViewSet](15_Crear_ViewSet.md) |
+| [Métodos PUT, Patch y Delete](13_Metodos_PUT_PATCH_DELETE.md) | [Readme](../../README.md) | [Crear un ViewSet](15_Crear_ViewSet.md) |
