@@ -47,4 +47,4 @@ class UserAdmin(BaseUserAdmin):
 
 | Anterior |                           | Siguiente                                  |
 | -------- | ------------------------- | ------------------------------------------ |
-| [Test para listar Usuarios en Django Admin](07_Test_Listar_Usuarios_Django_Admin.md) | [Readme](../../README.md) | [Agregar Usuario desde Admin](08_Modificar_Django_Admin_Para_Cambiar_Modelo_User.md) |
+| [Test para listar Usuarios en Django Admin](07_Test_Listar_Usuarios_Django_Admin.md) | [Readme](../../README.md) | [Agregar Usuario desde Admin](09_Agregar_Usuario_Desde_Admin.md) |
