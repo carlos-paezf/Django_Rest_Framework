@@ -13,6 +13,15 @@ class UserManager(BaseUserManager):
 
         return user
 
+    def create_superuser(self, email, password):
+        """ Crear superuser """
+        super_user = self.create_user(email, password)
+        super_user.is_staff = True
+        super_user.is_superuser = True
+        super_user.save(using = self._db)
+
+        return super_user
+
 
 class User(AbstractBaseUser, PermissionsMixin):
     """ Modelo personalizado de Usuario que soporta hacer Login con Email en vez de username """

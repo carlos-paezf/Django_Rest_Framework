@@ -61,3 +61,4 @@ pip install -r requirements.txt
 - [Test para Modelo de Usuario Personalizado](Django_API_Advanced/DOC/03_Test_Modelo_Usuario_Personalizado.md)
 - [Modelo de Usuario Personalizado](Django_API_Advanced/DOC/04_Modelo_Usuario_Personalizado.md)
 - [Normalización de Correos](Django_API_Advanced/DOC/05_Normalizacion_Correos.md)
+- [Crear SuperUsuario](Django_API_Advanced/DOC/06_Crear_SuperUser.md)

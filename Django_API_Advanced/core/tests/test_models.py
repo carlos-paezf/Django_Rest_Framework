@@ -23,3 +23,10 @@ class ModelTest(TestCase):
         """ > Probar error de creación de usuario con email invalido """
         with self.assertRaises(ValueError):
             get_user_model().objects.create_user(None, '123')
+
+    def test_create_new_super_user(self):
+        """ > Probar super-usuario creado """
+        user = get_user_model().objects.create_superuser('admin@gmail.com', 'admin_1234567890')
+
+        self.assertTrue(user.is_superuser)
+        self.assertTrue(user.is_staff)
