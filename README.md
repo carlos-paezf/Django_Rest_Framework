@@ -66,3 +66,4 @@ pip install -r requirements.txt
 - [Modificar Django Admin para cambiar Modelo de Usuario](Django_API_Advanced/DOC/08_Modificar_Django_Admin_Para_Cambiar_Modelo_User.md)
 - [Agregar Usuario desde Admin](Django_API_Advanced/DOC/09_Agregar_Usuario_Desde_Admin.md)
 - [Crear App de Usuarios](Django_API_Advanced/DOC/10_Crear_App_Usuarios.md)
+- [API Crear Usuarios](Django_API_Advanced/DOC/11_API_Crear_Usuarios.md)
