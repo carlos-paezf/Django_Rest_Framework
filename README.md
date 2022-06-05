@@ -64,3 +64,4 @@ pip install -r requirements.txt
 - [Crear SuperUsuario](Django_API_Advanced/DOC/06_Crear_SuperUser.md)
 - [Test para listar Usuarios en Django Admin](Django_API_Advanced/DOC/07_Test_Listar_Usuarios_Django_Admin.md)
 - [Modificar Django Admin para cambiar Modelo de Usuario](Django_API_Advanced/DOC/08_Modificar_Django_Admin_Para_Cambiar_Modelo_User.md)
+- [Agregar Usuario desde Admin](Django_API_Advanced/DOC/09_Agregar_Usuario_Desde_Admin.md)
