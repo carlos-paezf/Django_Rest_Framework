@@ -225,7 +225,11 @@ class PublicTagsApiTests(TestCase):
 Implementamos la lógica en nuestra vista:
 
 ```py
-
+class TagViewSet(viewsets.GenericViewSet, mixins.ListModelMixin, mixins.CreateModelMixin):
+    ...
+    def perform_create(self, serializer):
+        """ Crear nuevo tag """
+        serializer.save(user=self.request.user)
 ```
 
 | Anterior                              |                           | Siguiente                          |
