@@ -69,3 +69,4 @@ pip install -r requirements.txt
 - [API Crear Usuarios](Django_API_Advanced/DOC/11_API_Crear_Usuarios.md)
 - [Token API](Django_API_Advanced/DOC/12_Token_API.md)
 - [User Endpoint](Django_API_Advanced/DOC/13_User_Endpoint.md)
+- [App para Recetas](Django_API_Advanced/DOC/14_App_Recetas.md)
