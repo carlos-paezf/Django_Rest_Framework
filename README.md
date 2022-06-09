@@ -70,3 +70,4 @@ pip install -r requirements.txt
 - [Token API](Django_API_Advanced/DOC/12_Token_API.md)
 - [User Endpoint](Django_API_Advanced/DOC/13_User_Endpoint.md)
 - [App para Recetas](Django_API_Advanced/DOC/14_App_Recetas.md)
+- [Etiquetas](Django_API_Advanced/DOC/15_Etiquetas.md)
