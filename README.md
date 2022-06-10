@@ -72,3 +72,4 @@ pip install -r requirements.txt
 - [App para Recetas](Django_API_Advanced/DOC/14_App_Recetas.md)
 - [Etiquetas](Django_API_Advanced/DOC/15_Etiquetas.md)
 - [Ingredientes](Django_API_Advanced/DOC/16_Ingredientes.md)
+- [Recetas](Django_API_Advanced/DOC/17_Recetas.md)
