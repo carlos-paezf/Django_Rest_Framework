@@ -73,3 +73,4 @@ pip install -r requirements.txt
 - [Etiquetas](Django_API_Advanced/DOC/15_Etiquetas.md)
 - [Ingredientes](Django_API_Advanced/DOC/16_Ingredientes.md)
 - [Recetas](Django_API_Advanced/DOC/17_Recetas.md)
+- [Configurar Imágenes en Django](Django_API_Advanced/DOC/18_Configurar_Imagenes_Django.md)
