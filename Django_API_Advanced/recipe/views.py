@@ -14,7 +14,13 @@ class BaseRecipeAttrViewSet(viewsets.GenericViewSet, mixins.ListModelMixin, mixi
 
     def get_queryset(self):
         """ Obtener tags del usuario actual """
-        return self.queryset.filter(user=self.request.user).order_by('-name')
+        assigned_only = bool(self.request.query_params.get('assigned_only', 0))
+
+        queryset = self.queryset
+        if assigned_only:
+            queryset = queryset.filter(recipe__isnull=False)
+
+        return queryset.filter(user=self.request.user).order_by('-name').distinct()
 
     def perform_create(self, serializer):
         """ Crear nuevo tag """
@@ -69,3 +75,23 @@ class RecipeViewSet(viewsets.ModelViewSet):
 
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
+    def _params_to_ints(self, query_params):
+        """ Convertir los parámetros a enteros """
+        return [int(str_id) for str_id in query_params.split(',')]
+
+    def get_queryset(self):
+        """ Obtener recetas del usuario actual """
+        tags = self.request.query_params.get('tags')
+        ingredients = self.request.query_params.get('ingredients')
+
+        queryset = self.queryset
+
+        if tags:
+            tag_ids = self._params_to_ints(tags)
+            queryset = queryset.filter(tags__id__in=tag_ids)
+
+        if ingredients:
+            ingredient_ids = self._params_to_ints(ingredients)
+            queryset = queryset.filter(ingredients__id__in=ingredient_ids)
+        
+        return queryset.filter(user=self.request.user)
